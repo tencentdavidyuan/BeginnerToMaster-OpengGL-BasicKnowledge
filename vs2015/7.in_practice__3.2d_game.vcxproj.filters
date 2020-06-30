@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\ball_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\game_level.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\game_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\particle_generator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\post_processor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\program.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\resource_manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\sprite_renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\stb_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\text_renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\ball_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\game_level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\game_object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\particle_generator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\post_processor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\power_up.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\resource_manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\sprite_renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\text_renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\particle.vs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\post_processing.vs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\sprite.vs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\text_2d.vs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\particle.fs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\post_processing.fs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\sprite.fs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\7.in_practice\3.2d_game\text_2d.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5EEF40A8-DA46-3C6C-A8A7-734069BE2AE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{60F435DC-C573-3A0E-9E44-9F198E76207E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

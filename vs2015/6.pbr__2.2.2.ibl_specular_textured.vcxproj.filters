@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\6.pbr\2.2.2.ibl_specular_textured\ibl_specular_textured.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\6.pbr\2.2.2.ibl_specular_textured\2.2.2.background.vs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\6.pbr\2.2.2.ibl_specular_textured\2.2.2.brdf.vs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\6.pbr\2.2.2.ibl_specular_textured\2.2.2.cubemap.vs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\6.pbr\2.2.2.ibl_specular_textured\2.2.2.pbr.vs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\6.pbr\2.2.2.ibl_specular_textured\2.2.2.background.fs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\6.pbr\2.2.2.ibl_specular_textured\2.2.2.brdf.fs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\6.pbr\2.2.2.ibl_specular_textured\2.2.2.equirectangular_to_cubemap.fs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\6.pbr\2.2.2.ibl_specular_textured\2.2.2.irradiance_convolution.fs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\6.pbr\2.2.2.ibl_specular_textured\2.2.2.pbr.fs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\6.pbr\2.2.2.ibl_specular_textured\2.2.2.prefilter.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5EEF40A8-DA46-3C6C-A8A7-734069BE2AE3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\2.lighting\5.2.light_casters_point\light_casters_point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\2.lighting\5.2.light_casters_point\5.2.light_casters.vs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\2.lighting\5.2.light_casters_point\5.2.light_cube.vs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\2.lighting\5.2.light_casters_point\5.2.light_casters.fs" />
+    <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\2.lighting\5.2.light_casters_point\5.2.light_cube.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5EEF40A8-DA46-3C6C-A8A7-734069BE2AE3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
