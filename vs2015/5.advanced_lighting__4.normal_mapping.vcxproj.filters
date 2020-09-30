@@ -1,8 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\5.advanced_lighting\4.normal_mapping\normal_mapping.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\5.advanced_lighting\4.normal_mapping\hummer_normal_mapping.cpp">
+      <Filter>Learning</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -11,10 +14,19 @@
   <ItemGroup>
     <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\5.advanced_lighting\4.normal_mapping\4.normal_mapping.vs" />
     <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\5.advanced_lighting\4.normal_mapping\4.normal_mapping.fs" />
+    <None Include="..\src\5.advanced_lighting\4.normal_mapping\4_hummer_normal_mapping.fs">
+      <Filter>Learning</Filter>
+    </None>
+    <None Include="..\src\5.advanced_lighting\4.normal_mapping\4_hummer_normal_mapping.vs">
+      <Filter>Learning</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
       <UniqueIdentifier>{5EEF40A8-DA46-3C6C-A8A7-734069BE2AE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Learning">
+      <UniqueIdentifier>{568198da-b903-46db-a31e-d8883ad02a96}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

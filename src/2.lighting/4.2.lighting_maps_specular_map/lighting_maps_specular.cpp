@@ -1,3 +1,4 @@
+/*
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <stb_image.h>
@@ -342,3 +343,4 @@ unsigned int loadTexture(char const * path)
 
     return textureID;
 }
+*/

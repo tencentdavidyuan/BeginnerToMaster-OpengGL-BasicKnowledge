@@ -31,7 +31,14 @@ void main()
     T = normalize(T - dot(T, N) * N);
     vec3 B = cross(N, T);
     
-    mat3 TBN = transpose(mat3(T, B, N));    
+    //mat3 TBN = transpose(mat3(T, B, N));    
+    mat3 TBN = mat3(
+        T.x, T.y, T.z,
+        B.x, B.y, B.z,
+        N.x, N.y, N.z
+    );
+
+
     vs_out.TangentLightPos = TBN * lightPos;
     vs_out.TangentViewPos  = TBN * viewPos;
     vs_out.TangentFragPos  = TBN * vs_out.FragPos;

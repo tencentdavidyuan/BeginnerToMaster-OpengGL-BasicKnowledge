@@ -1,8 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\2.lighting\4.2.lighting_maps_specular_map\lighting_maps_specular.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\2.lighting\4.2.lighting_maps_specular_map\hummer_lighting_maps_specular.cpp">
+      <Filter>Learning</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -13,10 +16,19 @@
     <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\2.lighting\4.2.lighting_maps_specular_map\4.2.lighting_maps.vs" />
     <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\2.lighting\4.2.lighting_maps_specular_map\4.2.light_cube.fs" />
     <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\2.lighting\4.2.lighting_maps_specular_map\4.2.lighting_maps.fs" />
+    <None Include="..\src\2.lighting\4.2.lighting_maps_specular_map\4_2_hummer_lighting_maps_specular.fs">
+      <Filter>Learning</Filter>
+    </None>
+    <None Include="..\src\2.lighting\4.2.lighting_maps_specular_map\4_2_hummer_lighting_maps_specular.vs">
+      <Filter>Learning</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
       <UniqueIdentifier>{5EEF40A8-DA46-3C6C-A8A7-734069BE2AE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Learning">
+      <UniqueIdentifier>{1babc9d5-14ab-49ab-ac8b-ea49924487bc}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

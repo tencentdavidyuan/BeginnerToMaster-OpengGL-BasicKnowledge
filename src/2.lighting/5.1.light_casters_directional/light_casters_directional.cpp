@@ -1,3 +1,4 @@
+/*
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <stb_image.h>
@@ -227,7 +228,7 @@ int main()
 
         // render the cube
         // glBindVertexArray(cubeVAO);
-        // glDrawArrays(GL_TRIANGLES, 0, 36);*/
+        // glDrawArrays(GL_TRIANGLES, 0, 36);
 
         // render containers
         glBindVertexArray(cubeVAO);
@@ -367,3 +368,4 @@ unsigned int loadTexture(char const * path)
 
     return textureID;
 }
+*/

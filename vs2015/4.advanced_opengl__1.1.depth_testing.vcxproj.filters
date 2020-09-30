@@ -1,8 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\4.advanced_opengl\1.1.depth_testing\depth_testing.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\4.advanced_opengl\1.1.depth_testing\hummer_depth_testing.cpp">
+      <Filter>Learning</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -11,10 +14,25 @@
   <ItemGroup>
     <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\4.advanced_opengl\1.1.depth_testing\1.1.depth_testing.vs" />
     <None Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\4.advanced_opengl\1.1.depth_testing\1.1.depth_testing.fs" />
+    <None Include="..\src\4.advanced_opengl\1.1.depth_testing\4_1_1_hummer_depth_testing.fs">
+      <Filter>Learning</Filter>
+    </None>
+    <None Include="..\src\4.advanced_opengl\1.1.depth_testing\4_1_1_hummer_depth_testing.vs">
+      <Filter>Learning</Filter>
+    </None>
+    <None Include="..\src\4.advanced_opengl\1.1.depth_testing\4_1_1_hummer_direction_diffuse_specular.fs">
+      <Filter>Learning</Filter>
+    </None>
+    <None Include="..\src\4.advanced_opengl\1.1.depth_testing\4_1_1_hummer_direction_diffuse_specular.vs">
+      <Filter>Learning</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
       <UniqueIdentifier>{5EEF40A8-DA46-3C6C-A8A7-734069BE2AE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Learning">
+      <UniqueIdentifier>{2cad46c7-a4c1-400f-a2ba-6ab6bddce2a9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

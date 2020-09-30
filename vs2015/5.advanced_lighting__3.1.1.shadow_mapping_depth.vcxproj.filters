@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\5.advanced_lighting\3.1.1.shadow_mapping_depth\shadow_mapping_depth.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\src\5.advanced_lighting\3.1.1.shadow_mapping_depth\hummer_shadow_mapping_depth.cpp" />
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\CMakeLists.txt" />

@@ -1,8 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="D:\OpenGL\BeginnerToMaster-OpengGL-BasicKnowledge\src\4.advanced_opengl\1.2.depth_testing_view\depth_testing_view.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\4.advanced_opengl\1.2.depth_testing_view\hummer_depth_testing_view.cpp">
+      <Filter>Learning</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -15,6 +18,9 @@
   <ItemGroup>
     <Filter Include="Source Files">
       <UniqueIdentifier>{5EEF40A8-DA46-3C6C-A8A7-734069BE2AE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Learning">
+      <UniqueIdentifier>{d47b907b-c1cd-40ef-a78b-a55c0ce4f64b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
